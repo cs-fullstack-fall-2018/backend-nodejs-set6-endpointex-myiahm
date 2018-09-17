@@ -5,4 +5,5 @@
 * Return any ToDos that are incomplete *AND* have a create date that is on or before the age date
 
 - Use an HTTP GET for your route endpoint
-- You'll need to use Mongoose/Mongo Conditionals for your database query
+- You'll need to use Mongoose/Mongo Conditionals for your database query (https://docs.mongodb.com/manual/reference/operator/query-comparison/)
+
